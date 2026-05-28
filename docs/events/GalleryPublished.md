@@ -1,0 +1,3 @@
+# GalleryPublished
+
+Événement de domaine.

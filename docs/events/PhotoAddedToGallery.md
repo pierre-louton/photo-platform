@@ -1,0 +1,3 @@
+# PhotoAddedToGallery
+
+Événement de domaine.

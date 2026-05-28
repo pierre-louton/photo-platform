@@ -1,0 +1,7 @@
+/photo-platform/vendor/
+/photo-platform/.phpunit.cache/
+/photo-platform/coverage/
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db

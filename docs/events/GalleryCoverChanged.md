@@ -1,0 +1,3 @@
+# GalleryCoverChanged
+
+Événement de domaine.
