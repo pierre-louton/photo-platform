@@ -90,3 +90,22 @@ sans réécriture du modèle métier.
 - mobile ;
 - IA ;
 - édition collaborative avancée.
+
+---
+Statut : Initial DDD Platform Baseline
+
+Implémenté :
+- Architecture DDD
+- Domain Events
+- Aggregate Root
+- Gallery Aggregate
+- CreateGallery Use Case
+- InMemory Repository
+- PHPUnit
+
+À venir :
+- Classification
+- Portfolio
+- Booking
+- WordPress Integration
+- Persistence
